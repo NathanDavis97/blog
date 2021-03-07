@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://nathandavis97.github.io/blogsitemap.xml
